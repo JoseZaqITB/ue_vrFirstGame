@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/_DAVID/ESCENAS/VR_ESCENA01.umap",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/_DAVID/GAME/VRGAME.uasset",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/_DAVID/INPUT_ACTIONS/IA_VR_MoveForward.uasset",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/_DAVID/INPUT_ACTIONS/IA_VR_MoveHorizontal.uasset",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/_DAVID/INPUT_ACTIONS/IMC_SmoothLocomotion.uasset",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/_DAVID/GAME/VR_Player.uasset",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/_DAVID/GAME/VR_Main_Player.uasset",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/VRTemplate/Input/PMI_VRTemplate.uasset",
+				"D:/UNREAL/PROYECTOS/PROYECTOS_VR/DEMOVR/Content/_DAVID/INPUT_ACTIONS/IA_VR_Turn.uasset"
+			]
+		}
+	]
+}
